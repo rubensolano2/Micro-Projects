@@ -1,3 +1,5 @@
+# (EN PROCESO INICIO 04/09/2024)
+
 # 🎓 Mini Proyectos de Ciencia de Datos y Machine Learning
 
 ¡Bienvenido a mi repositorio de mini proyectos! Aquí encontrarás una colección de proyectos que he desarrollado para demostrar mis habilidades en Ciencia de Datos, Machine Learning, Visualización de Datos y Análisis Predictivo. Cada proyecto incluye una descripción clara, los objetivos, las herramientas utilizadas y enlaces a los notebooks o scripts correspondientes.
